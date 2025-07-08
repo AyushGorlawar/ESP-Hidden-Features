@@ -2,6 +2,11 @@
 
 This project sets up a fake Wi-Fi access point using an ESP8266 module, mimicking a public Wi-Fi login page to capture user details. The captured data is sent to Firebase Realtime Database for analysis. **This project is strictly for educational and cybersecurity awareness purposes.**
 
+### 📸 Preview
+
+![Login Page Preview](https://github.com/AyushGorlawar/ESP-Hidden-Features/blob/main/Day%201%20%E2%80%93%20ESP8266%20WiFi%20Honeypot%20(Ethical%20Trap)/Screenshot%202025-07-08%20115048.png)
+
+---
 ## Features
 - Creates an open Wi-Fi hotspot named **RailWire**.
 - Hosts a fake **RailWire Free Wi-Fi Login Page**.
