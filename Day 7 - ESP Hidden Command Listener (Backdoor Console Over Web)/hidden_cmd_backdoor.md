@@ -60,3 +60,10 @@ LittleFS.format();
 digitalWrite(LED_BUILTIN, HIGH/LOW);
 millis(), WiFi.localIP(), ESP.getFreeHeap();
 ```
+
+## Limitations
+- Max buffer ~10–20 messages in memory (ESP RAM limit)
+
+- No user identity unless implemented
+
+- No message persistence after reboot (unless stored in LittleFS)
