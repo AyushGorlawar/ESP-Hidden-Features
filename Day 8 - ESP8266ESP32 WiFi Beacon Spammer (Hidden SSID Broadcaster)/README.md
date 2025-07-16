@@ -55,3 +55,21 @@ This is **for education only**.
 ##  Customization
 
 Change the `ssidList[]` array to broadcast your own set of names:
+
+```cpp
+const char* ssidList[] = {
+  "Free_WiFi_Ayush",
+  "🔐 Hack_Me_If_U_Can",
+  "FBI_Surveillance_Van",
+  "No_Internet_For_You",
+  "💀 Virus_Hub_69",
+};
+```
+
+## Folder Structure 
+
+```
+08_WiFi_Beacon_Spammer/
+├── beacon_spammer.ino
+└── README.md
+```
